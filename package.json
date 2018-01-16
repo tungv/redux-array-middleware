@@ -1,0 +1,11 @@
+{
+  "name": "redux-array-middleware",
+  "version": "1.0.0",
+  "description": "flatten and dispatch all actions in an array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tung <me@tungv.com>",
+  "license": "ISC"
+}
